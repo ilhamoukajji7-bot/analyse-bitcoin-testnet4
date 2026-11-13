@@ -12,4 +12,19 @@ TestNet4 est un réseau de test Bitcoin qui permet d'effectuer des transactions 
 
 2. Objectif du projet
 
-L'objectif de ce travail est d'étudier une transaction réalisée sur Bitcoin TestNet4 et de comprendre les différentes étapes de son fonctionnemen
+L'objectif de ce travail est d'étudier une transaction réalisée sur Bitcoin TestNet4 et de comprendre les différentes étapes de son fonctionnement.
+3. Fonctionnement d'une transaction Bitcoin
+
+Une transaction Bitcoin permet de transférer des bitcoins d'une adresse à une autre.
+
+Elle se compose principalement de deux éléments :
+
+- Inputs (entrées) : représentent les fonds utilisés dans la transaction.
+- Outputs (sorties) : représentent la destination des fonds transférés.
+
+Les frais de transaction correspondent à la différence entre la valeur totale des entrées et celle des sorties.
+
+4. Le réseau TestNet4
+
+TestNet4 est un environnement de test qui permet d'effectuer des transactions Bitcoin sans utiliser de bitcoins ayant une valeur monétaire réelle.
+
