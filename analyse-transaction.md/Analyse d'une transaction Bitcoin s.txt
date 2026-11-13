@@ -1,0 +1,15 @@
+Analyse d'une transaction Bitcoin sur TestNet4
+
+Travail pratique TP3 – Master FinTech / Blockchain
+
+Réalisé par : ilham oukajji
+
+1. Introduction
+
+Bitcoin est une cryptomonnaie qui fonctionne grâce à une technologie appelée blockchain. Cette technologie permet d'effectuer des transactions de manière décentralisée et sécurisée.
+
+TestNet4 est un réseau de test Bitcoin qui permet d'effectuer des transactions expérimentales sans utiliser de véritables bitcoins.
+
+2. Objectif du projet
+
+L'objectif de ce travail est d'étudier une transaction réalisée sur Bitcoin TestNet4 et de comprendre les différentes étapes de son fonctionnemen
