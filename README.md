@@ -1,4 +1,5 @@
 # analyse-bitcoin-testnet4
+
 analyse du transaction bitcoin sur testnet 4
 Analyse d'une transaction Bitcoin
 
@@ -16,11 +17,21 @@ Comprendre le fonctionnement d'une transaction Bitcoin à partir d'un exemple r�
 
 Outils utilisés
 
-- GitHub
-- GitHub Desktop
-- Bitcoin TestNet4 Explorer
+* GitHub
+* GitHub Desktop
+* Bitcoin TestNet4 Explorer
 
 Sources
 
-- https://github.com/
-- https://mempool.space/testnet4/
+* https://github.com/
+* https://mempool.space/testnet4/
+* &#x20;Sources et outils
+* 
+* \- Explorateur blockchain : Mempool.space
+* \- Réseau utilisé : Bitcoin TestNet4
+* \- Outil d'analyse : GitHub
+* \- Assistance : ChatGPT pour la rédaction et la compréhension des notions.
+* 
+* \## Auteur : oukajji ilham  
+* Master FinTech – Blockchain
+
